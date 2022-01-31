@@ -1,17 +1,25 @@
 # dynamic_range_bar_flutter_demo
 
-A new Flutter project.
+Dynamic Color bar with range and pointer.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+You can to start with array
 
-A few resources to get you started if this is your first Flutter project:
+## Multiple arrays (But you can use as dynamic array if you want)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+# Example 1 :
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-![dynamic_color_bar](https://user-images.githubusercontent.com/55837697/151821364-49601a3b-1ce7-426c-b30a-c3b569d92734.jpg)
+  List<int> array1 = [10, 50, 60, 120, 180, 200];
+  int arrayPoint1 = 150;
+   
+  ![example_1](https://user-images.githubusercontent.com/55837697/151822758-4bfb6468-3774-4b00-aef3-f51458ad5b0f.jpg)
+
+# Example 2 :
+
+  List<int> array1 = [100, 150, 190, 230, 250, 360];
+  int arrayPoint1 = 200;
+
+  ![example_2](https://user-images.githubusercontent.com/55837697/151823143-162f0465-6560-4d52-a67f-5ee3f164b533.jpg)
+
+You can use as you want.
