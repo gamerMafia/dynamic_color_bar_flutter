@@ -1,6 +1,7 @@
 # dynamic_range_bar_flutter_demo
 
 Dynamic Color bar with range and pointer.
+Flutter Dynamic Color bar
 
 ## Getting Started
 
